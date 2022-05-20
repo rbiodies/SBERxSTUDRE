@@ -4,8 +4,8 @@
 2. Implementation of several options for sorting directory data;
 3. Implementation of the search for the city with the largest number of residents;
 4. Implementation of the search for the number of cities by regions.
-5. ```
-6. [489]=11514330
+```
+[489]=11514330
 Вологодская область = 15
 Татарстан = 22
 Хабаровский край = 7
