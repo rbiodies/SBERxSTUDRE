@@ -20,6 +20,4 @@ City{name='Александровск-Сахалинский', region='Саха�
 ...
 City{name='Шахты', region='Ростовская область', district='Южный', population=240152, foundation='1805'}
 City{name='Элиста', region='Калмыкия', district='Южный', population=103728, foundation='1865'}
-
-Process finished with exit code 0
 ```
