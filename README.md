@@ -1,5 +1,5 @@
 # SBERxSTUDRE
-### Stages of solving the problem:
+## Stages of solving the problem
 1. Loading the directory data;
 2. Implementation of several options for sorting directory data;
 3. Implementation of the search for the city with the largest number of residents;
